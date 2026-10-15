@@ -1,4 +1,12 @@
+# superseded deliverables and scratch — kept in the workspace, not the repo
+_archive/
+verify/
 __pycache__/
 *.py[cod]
+ctftime_raw.json
+live.json
+cv.html
+cvc.html
+cva.json
 .DS_Store
 Thumbs.db
